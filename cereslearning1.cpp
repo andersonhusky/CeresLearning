@@ -32,6 +32,5 @@ int main(int argc, char** argv){
 
     cout << summary.BriefReport() << endl;
     cout << "x: " << initial_x << " -> " << x << endl;
-    cout << "test tag" << endl;
     return 0;
 }

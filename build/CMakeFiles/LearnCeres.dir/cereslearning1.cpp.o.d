@@ -1,5 +1,5 @@
 CMakeFiles/LearnCeres.dir/cereslearning1.cpp.o: \
- /media/hongfeng/Storage/Code/test/CeresLearning/cereslearning1.cpp \
+ /media/hongfeng/Storage/Code/CeresLearning/cereslearning1.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/7/iostream \
  /usr/include/x86_64-linux-gnu/c++/7/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/7/bits/os_defines.h \

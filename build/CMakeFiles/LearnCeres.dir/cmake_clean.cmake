@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/LearnCeres.dir/cereslearning1.cpp.o"
-  "CMakeFiles/LearnCeres.dir/cereslearning1.cpp.o.d"
+  "CMakeFiles/LearnCeres.dir/src/Derivatives.cpp.o"
+  "CMakeFiles/LearnCeres.dir/src/Derivatives.cpp.o.d"
   "LearnCeres"
   "LearnCeres.pdb"
 )

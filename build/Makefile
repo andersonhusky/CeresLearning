@@ -117,41 +117,41 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named LearnCeres
+# Target rules for targets named LearnCeres2
 
 # Build rule for target.
-LearnCeres: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 LearnCeres
-.PHONY : LearnCeres
+LearnCeres2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 LearnCeres2
+.PHONY : LearnCeres2
 
 # fast build rule for target.
-LearnCeres/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearnCeres.dir/build.make CMakeFiles/LearnCeres.dir/build
-.PHONY : LearnCeres/fast
+LearnCeres2/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearnCeres2.dir/build.make CMakeFiles/LearnCeres2.dir/build
+.PHONY : LearnCeres2/fast
 
-cereslearning1.o: cereslearning1.cpp.o
-.PHONY : cereslearning1.o
+src/No2_Derivatives.o: src/No2_Derivatives.cpp.o
+.PHONY : src/No2_Derivatives.o
 
 # target to build an object file
-cereslearning1.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearnCeres.dir/build.make CMakeFiles/LearnCeres.dir/cereslearning1.cpp.o
-.PHONY : cereslearning1.cpp.o
+src/No2_Derivatives.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearnCeres2.dir/build.make CMakeFiles/LearnCeres2.dir/src/No2_Derivatives.cpp.o
+.PHONY : src/No2_Derivatives.cpp.o
 
-cereslearning1.i: cereslearning1.cpp.i
-.PHONY : cereslearning1.i
+src/No2_Derivatives.i: src/No2_Derivatives.cpp.i
+.PHONY : src/No2_Derivatives.i
 
 # target to preprocess a source file
-cereslearning1.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearnCeres.dir/build.make CMakeFiles/LearnCeres.dir/cereslearning1.cpp.i
-.PHONY : cereslearning1.cpp.i
+src/No2_Derivatives.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearnCeres2.dir/build.make CMakeFiles/LearnCeres2.dir/src/No2_Derivatives.cpp.i
+.PHONY : src/No2_Derivatives.cpp.i
 
-cereslearning1.s: cereslearning1.cpp.s
-.PHONY : cereslearning1.s
+src/No2_Derivatives.s: src/No2_Derivatives.cpp.s
+.PHONY : src/No2_Derivatives.s
 
 # target to generate assembly for a file
-cereslearning1.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearnCeres.dir/build.make CMakeFiles/LearnCeres.dir/cereslearning1.cpp.s
-.PHONY : cereslearning1.cpp.s
+src/No2_Derivatives.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearnCeres2.dir/build.make CMakeFiles/LearnCeres2.dir/src/No2_Derivatives.cpp.s
+.PHONY : src/No2_Derivatives.cpp.s
 
 # Help Target
 help:
@@ -161,10 +161,10 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
-	@echo "... LearnCeres"
-	@echo "... cereslearning1.o"
-	@echo "... cereslearning1.i"
-	@echo "... cereslearning1.s"
+	@echo "... LearnCeres2"
+	@echo "... src/No2_Derivatives.o"
+	@echo "... src/No2_Derivatives.i"
+	@echo "... src/No2_Derivatives.s"
 .PHONY : help
 
 

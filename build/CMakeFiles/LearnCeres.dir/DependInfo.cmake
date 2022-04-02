@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/media/hongfeng/Storage/Code/CeresLearning/cereslearning1.cpp" "CMakeFiles/LearnCeres.dir/cereslearning1.cpp.o" "gcc" "CMakeFiles/LearnCeres.dir/cereslearning1.cpp.o.d"
+  "/media/hongfeng/Storage/Code/CeresLearning/src/Derivatives.cpp" "CMakeFiles/LearnCeres.dir/src/Derivatives.cpp.o" "gcc" "CMakeFiles/LearnCeres.dir/src/Derivatives.cpp.o.d"
   )
 
 # Targets to which this target links.

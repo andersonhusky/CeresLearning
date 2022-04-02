@@ -12,7 +12,7 @@ message("ceres: " ${Ceres_INCLUDE_DIRS})
 include_directories(${Ceres_INCLUDE_DIRS})
 
 # ④生成可执行文件
-add_executable( LearnCeres cereslearning1.cpp)
+add_executable( LearnCeres2 src/No2_Derivatives.cpp)
 
 # ⑤添加软连接
-target_link_libraries(LearnCeres ${CERES_LIBRARIES})
+target_link_libraries(LearnCeres2 ${CERES_LIBRARIES})

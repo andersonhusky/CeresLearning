@@ -69,28 +69,28 @@ include CMakeFiles/LearnCeres.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/LearnCeres.dir/flags.make
 
-CMakeFiles/LearnCeres.dir/cereslearning1.cpp.o: CMakeFiles/LearnCeres.dir/flags.make
-CMakeFiles/LearnCeres.dir/cereslearning1.cpp.o: ../cereslearning1.cpp
-CMakeFiles/LearnCeres.dir/cereslearning1.cpp.o: CMakeFiles/LearnCeres.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/media/hongfeng/Storage/Code/CeresLearning/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/LearnCeres.dir/cereslearning1.cpp.o"
-	/usr/bin/x86_64-linux-gnu-g++-7 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LearnCeres.dir/cereslearning1.cpp.o -MF CMakeFiles/LearnCeres.dir/cereslearning1.cpp.o.d -o CMakeFiles/LearnCeres.dir/cereslearning1.cpp.o -c /media/hongfeng/Storage/Code/CeresLearning/cereslearning1.cpp
+CMakeFiles/LearnCeres.dir/src/Derivatives.cpp.o: CMakeFiles/LearnCeres.dir/flags.make
+CMakeFiles/LearnCeres.dir/src/Derivatives.cpp.o: ../src/Derivatives.cpp
+CMakeFiles/LearnCeres.dir/src/Derivatives.cpp.o: CMakeFiles/LearnCeres.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/media/hongfeng/Storage/Code/CeresLearning/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/LearnCeres.dir/src/Derivatives.cpp.o"
+	/usr/bin/x86_64-linux-gnu-g++-7 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LearnCeres.dir/src/Derivatives.cpp.o -MF CMakeFiles/LearnCeres.dir/src/Derivatives.cpp.o.d -o CMakeFiles/LearnCeres.dir/src/Derivatives.cpp.o -c /media/hongfeng/Storage/Code/CeresLearning/src/Derivatives.cpp
 
-CMakeFiles/LearnCeres.dir/cereslearning1.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LearnCeres.dir/cereslearning1.cpp.i"
-	/usr/bin/x86_64-linux-gnu-g++-7 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /media/hongfeng/Storage/Code/CeresLearning/cereslearning1.cpp > CMakeFiles/LearnCeres.dir/cereslearning1.cpp.i
+CMakeFiles/LearnCeres.dir/src/Derivatives.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LearnCeres.dir/src/Derivatives.cpp.i"
+	/usr/bin/x86_64-linux-gnu-g++-7 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /media/hongfeng/Storage/Code/CeresLearning/src/Derivatives.cpp > CMakeFiles/LearnCeres.dir/src/Derivatives.cpp.i
 
-CMakeFiles/LearnCeres.dir/cereslearning1.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LearnCeres.dir/cereslearning1.cpp.s"
-	/usr/bin/x86_64-linux-gnu-g++-7 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /media/hongfeng/Storage/Code/CeresLearning/cereslearning1.cpp -o CMakeFiles/LearnCeres.dir/cereslearning1.cpp.s
+CMakeFiles/LearnCeres.dir/src/Derivatives.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LearnCeres.dir/src/Derivatives.cpp.s"
+	/usr/bin/x86_64-linux-gnu-g++-7 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /media/hongfeng/Storage/Code/CeresLearning/src/Derivatives.cpp -o CMakeFiles/LearnCeres.dir/src/Derivatives.cpp.s
 
 # Object files for target LearnCeres
 LearnCeres_OBJECTS = \
-"CMakeFiles/LearnCeres.dir/cereslearning1.cpp.o"
+"CMakeFiles/LearnCeres.dir/src/Derivatives.cpp.o"
 
 # External object files for target LearnCeres
 LearnCeres_EXTERNAL_OBJECTS =
 
-LearnCeres: CMakeFiles/LearnCeres.dir/cereslearning1.cpp.o
+LearnCeres: CMakeFiles/LearnCeres.dir/src/Derivatives.cpp.o
 LearnCeres: CMakeFiles/LearnCeres.dir/build.make
 LearnCeres: /usr/local/lib/x86_64-linux-gnu/libceres.a
 LearnCeres: /usr/lib/x86_64-linux-gnu/libglog.so

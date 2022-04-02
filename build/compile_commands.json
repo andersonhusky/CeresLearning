@@ -1,7 +1,7 @@
 [
 {
   "directory": "/media/hongfeng/Storage/Code/CeresLearning/build",
-  "command": "/usr/bin/x86_64-linux-gnu-g++-7 -DGFLAGS_IS_A_DLL=0 -isystem /usr/include/suitesparse -isystem /usr/local/include/eigen3 -std=c++14 -O3 -g -o CMakeFiles/LearnCeres.dir/cereslearning1.cpp.o -c /media/hongfeng/Storage/Code/CeresLearning/cereslearning1.cpp",
-  "file": "/media/hongfeng/Storage/Code/CeresLearning/cereslearning1.cpp"
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7 -DGFLAGS_IS_A_DLL=0 -isystem /usr/include/suitesparse -isystem /usr/local/include/eigen3 -std=c++14 -O3 -g -o CMakeFiles/LearnCeres2.dir/src/No2_Derivatives.cpp.o -c /media/hongfeng/Storage/Code/CeresLearning/src/No2_Derivatives.cpp",
+  "file": "/media/hongfeng/Storage/Code/CeresLearning/src/No2_Derivatives.cpp"
 }
 ]

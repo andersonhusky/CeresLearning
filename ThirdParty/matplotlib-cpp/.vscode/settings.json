@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "array": "cpp",
+        "numeric": "cpp",
+        "stdexcept": "cpp",
+        "string": "cpp",
+        "map": "cpp",
+        "vector": "cpp",
+        "algorithm": "cpp",
+        "functional": "cpp",
+        "cstdint": "cpp"
+    }
+}

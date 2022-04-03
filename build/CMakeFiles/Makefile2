@@ -63,7 +63,7 @@ CMAKE_BINARY_DIR = /media/hongfeng/Storage/Code/CeresLearning/build
 # Directory level rules for the build root directory
 
 # The main recursive "all" target.
-all: CMakeFiles/LearnCeres2.dir/all
+all: CMakeFiles/LearnCeres4.dir/all
 .PHONY : all
 
 # The main recursive "preinstall" target.
@@ -71,34 +71,34 @@ preinstall:
 .PHONY : preinstall
 
 # The main recursive "clean" target.
-clean: CMakeFiles/LearnCeres2.dir/clean
+clean: CMakeFiles/LearnCeres4.dir/clean
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/LearnCeres2.dir
+# Target rules for target CMakeFiles/LearnCeres4.dir
 
 # All Build rule for target.
-CMakeFiles/LearnCeres2.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearnCeres2.dir/build.make CMakeFiles/LearnCeres2.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearnCeres2.dir/build.make CMakeFiles/LearnCeres2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/media/hongfeng/Storage/Code/CeresLearning/build/CMakeFiles --progress-num=1,2 "Built target LearnCeres2"
-.PHONY : CMakeFiles/LearnCeres2.dir/all
+CMakeFiles/LearnCeres4.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearnCeres4.dir/build.make CMakeFiles/LearnCeres4.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearnCeres4.dir/build.make CMakeFiles/LearnCeres4.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/media/hongfeng/Storage/Code/CeresLearning/build/CMakeFiles --progress-num=1,2 "Built target LearnCeres4"
+.PHONY : CMakeFiles/LearnCeres4.dir/all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/LearnCeres2.dir/rule: cmake_check_build_system
+CMakeFiles/LearnCeres4.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /media/hongfeng/Storage/Code/CeresLearning/build/CMakeFiles 2
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/LearnCeres2.dir/all
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/LearnCeres4.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /media/hongfeng/Storage/Code/CeresLearning/build/CMakeFiles 0
-.PHONY : CMakeFiles/LearnCeres2.dir/rule
+.PHONY : CMakeFiles/LearnCeres4.dir/rule
 
 # Convenience name for target.
-LearnCeres2: CMakeFiles/LearnCeres2.dir/rule
-.PHONY : LearnCeres2
+LearnCeres4: CMakeFiles/LearnCeres4.dir/rule
+.PHONY : LearnCeres4
 
 # clean rule for target.
-CMakeFiles/LearnCeres2.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearnCeres2.dir/build.make CMakeFiles/LearnCeres2.dir/clean
-.PHONY : CMakeFiles/LearnCeres2.dir/clean
+CMakeFiles/LearnCeres4.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearnCeres4.dir/build.make CMakeFiles/LearnCeres4.dir/clean
+.PHONY : CMakeFiles/LearnCeres4.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

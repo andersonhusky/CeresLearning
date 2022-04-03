@@ -117,41 +117,41 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named LearnCeres2
+# Target rules for targets named LearnCeres4
 
 # Build rule for target.
-LearnCeres2: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 LearnCeres2
-.PHONY : LearnCeres2
+LearnCeres4: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 LearnCeres4
+.PHONY : LearnCeres4
 
 # fast build rule for target.
-LearnCeres2/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearnCeres2.dir/build.make CMakeFiles/LearnCeres2.dir/build
-.PHONY : LearnCeres2/fast
+LearnCeres4/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearnCeres4.dir/build.make CMakeFiles/LearnCeres4.dir/build
+.PHONY : LearnCeres4/fast
 
-src/No2_Derivatives.o: src/No2_Derivatives.cpp.o
-.PHONY : src/No2_Derivatives.o
+src/No4_CurveFitting.o: src/No4_CurveFitting.cpp.o
+.PHONY : src/No4_CurveFitting.o
 
 # target to build an object file
-src/No2_Derivatives.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearnCeres2.dir/build.make CMakeFiles/LearnCeres2.dir/src/No2_Derivatives.cpp.o
-.PHONY : src/No2_Derivatives.cpp.o
+src/No4_CurveFitting.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearnCeres4.dir/build.make CMakeFiles/LearnCeres4.dir/src/No4_CurveFitting.cpp.o
+.PHONY : src/No4_CurveFitting.cpp.o
 
-src/No2_Derivatives.i: src/No2_Derivatives.cpp.i
-.PHONY : src/No2_Derivatives.i
+src/No4_CurveFitting.i: src/No4_CurveFitting.cpp.i
+.PHONY : src/No4_CurveFitting.i
 
 # target to preprocess a source file
-src/No2_Derivatives.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearnCeres2.dir/build.make CMakeFiles/LearnCeres2.dir/src/No2_Derivatives.cpp.i
-.PHONY : src/No2_Derivatives.cpp.i
+src/No4_CurveFitting.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearnCeres4.dir/build.make CMakeFiles/LearnCeres4.dir/src/No4_CurveFitting.cpp.i
+.PHONY : src/No4_CurveFitting.cpp.i
 
-src/No2_Derivatives.s: src/No2_Derivatives.cpp.s
-.PHONY : src/No2_Derivatives.s
+src/No4_CurveFitting.s: src/No4_CurveFitting.cpp.s
+.PHONY : src/No4_CurveFitting.s
 
 # target to generate assembly for a file
-src/No2_Derivatives.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearnCeres2.dir/build.make CMakeFiles/LearnCeres2.dir/src/No2_Derivatives.cpp.s
-.PHONY : src/No2_Derivatives.cpp.s
+src/No4_CurveFitting.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LearnCeres4.dir/build.make CMakeFiles/LearnCeres4.dir/src/No4_CurveFitting.cpp.s
+.PHONY : src/No4_CurveFitting.cpp.s
 
 # Help Target
 help:
@@ -161,10 +161,10 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
-	@echo "... LearnCeres2"
-	@echo "... src/No2_Derivatives.o"
-	@echo "... src/No2_Derivatives.i"
-	@echo "... src/No2_Derivatives.s"
+	@echo "... LearnCeres4"
+	@echo "... src/No4_CurveFitting.o"
+	@echo "... src/No4_CurveFitting.i"
+	@echo "... src/No4_CurveFitting.s"
 .PHONY : help
 
 

@@ -63,7 +63,7 @@ CMAKE_ADDR2LINE:FILEPATH=/usr/bin/x86_64-linux-gnu-addr2line
 CMAKE_AR:FILEPATH=/usr/bin/x86_64-linux-gnu-ar
 
 //No help, variable specified on the command line.
-CMAKE_BUILD_TYPE:STRING=Debug
+CMAKE_BUILD_TYPE:STRING=Release
 
 //Enable/Disable color output during build.
 CMAKE_COLOR_MAKEFILE:BOOL=ON
@@ -562,6 +562,10 @@ CXSparse_INCLUDE_DIR-ADVANCED:INTERNAL=1
 CXSparse_LIBRARY-ADVANCED:INTERNAL=1
 //Details about finding CXSparse
 FIND_PACKAGE_MESSAGE_DETAILS_CXSparse:INTERNAL=[/usr/include/suitesparse][/usr/lib/x86_64-linux-gnu/libcxsparse.so][v3.1.9(3.1.9)]
+//Details about finding Python
+FIND_PACKAGE_MESSAGE_DETAILS_Python:INTERNAL=[/media/hongfeng/Storage/Ubuntu/anaconda3/bin/python3.9][cfound components: Interpreter ][v3.9.7()]
+//Details about finding Python2
+FIND_PACKAGE_MESSAGE_DETAILS_Python2:INTERNAL=[/usr/include/python2.7][/usr/lib/x86_64-linux-gnu/libpython2.7.so][/home/hongfeng/.local/lib/python2.7/site-packages/numpy/core/include][cfound components: Development NumPy Interpreter Development.Module Development.Embed ][v2.7.17()]
 //Details about finding SuiteSparse
 FIND_PACKAGE_MESSAGE_DETAILS_SuiteSparse:INTERNAL=[/usr/include/suitesparse][/usr/lib/x86_64-linux-gnu/libamd.so][/usr/include/suitesparse][/usr/lib/x86_64-linux-gnu/libcamd.so][/usr/include/suitesparse][/usr/lib/x86_64-linux-gnu/libccolamd.so][/usr/include/suitesparse][/usr/lib/x86_64-linux-gnu/libcholmod.so][/usr/include/suitesparse][/usr/lib/x86_64-linux-gnu/libcolamd.so][/usr/include/suitesparse][/usr/lib/x86_64-linux-gnu/libspqr.so][/usr/include/suitesparse][/usr/lib/x86_64-linux-gnu/libsuitesparseconfig.so][cfound components: AMD CAMD CCOLAMD CHOLMOD COLAMD SPQR Config ][v5.1.2(5.1.2)]
 //Details about finding Threads
@@ -632,4 +636,23 @@ SuiteSparse_Config_LIBRARY-ADVANCED:INTERNAL=1
 SuiteSparse_SPQR_INCLUDE_DIR-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: SuiteSparse_SPQR_LIBRARY
 SuiteSparse_SPQR_LIBRARY-ADVANCED:INTERNAL=1
+_Python2_DEVELOPMENT_EMBED_SIGNATURE:INTERNAL=8cac37ddf5dbaa9dfb4fa1e1c456be3e
+_Python2_DEVELOPMENT_MODULE_SIGNATURE:INTERNAL=87d0fdf2432b3fd7a26fd12abfb33193
+//Path to a program.
+_Python2_EXECUTABLE:INTERNAL=/usr/bin/python2.7
+//Path to a file.
+_Python2_INCLUDE_DIR:INTERNAL=/usr/include/python2.7
+//Python2 Properties
+_Python2_INTERPRETER_PROPERTIES:INTERNAL=Python;2;7;17;64;;;/usr/lib/python2.7;/usr/lib/python2.7;/usr/lib/python2.7/dist-packages;/usr/lib/python2.7/dist-packages
+_Python2_INTERPRETER_SIGNATURE:INTERNAL=a5f7e88a475c254171e2d5112b165a37
+//Path to a library.
+_Python2_LIBRARY_RELEASE:INTERNAL=/usr/lib/x86_64-linux-gnu/libpython2.7.so
+_Python2_NUMPY_SIGNATURE:INTERNAL=a66b39cb85e538e4a2d73b55f2f217d0
+//Path to a file.
+_Python2_NumPy_INCLUDE_DIR:INTERNAL=/home/hongfeng/.local/lib/python2.7/site-packages/numpy/core/include
+//Path to a program.
+_Python_EXECUTABLE:INTERNAL=/media/hongfeng/Storage/Ubuntu/anaconda3/bin/python3.9
+//Python Properties
+_Python_INTERPRETER_PROPERTIES:INTERNAL=Python;3;9;7;64;;cpython-39-x86_64-linux-gnu;/media/hongfeng/Storage/Ubuntu/anaconda3/lib/python3.9;/media/hongfeng/Storage/Ubuntu/anaconda3/lib/python3.9;/media/hongfeng/Storage/Ubuntu/anaconda3/lib/python3.9/site-packages;/media/hongfeng/Storage/Ubuntu/anaconda3/lib/python3.9/site-packages
+_Python_INTERPRETER_SIGNATURE:INTERNAL=84a2ff19b4a49e952ae1087215189970
 

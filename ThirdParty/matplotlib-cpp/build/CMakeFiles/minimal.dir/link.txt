@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-7 -g CMakeFiles/minimal.dir/examples/minimal.cpp.o -o bin/minimal  -Wl,-rpath,/media/hongfeng/Storage/Ubuntu/anaconda3/lib /media/hongfeng/Storage/Ubuntu/anaconda3/lib/libpython3.9.so 

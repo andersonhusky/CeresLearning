@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-7 -g CMakeFiles/xkcd.dir/examples/xkcd.cpp.o -o bin/xkcd  -Wl,-rpath,/media/hongfeng/Storage/Ubuntu/anaconda3/lib /media/hongfeng/Storage/Ubuntu/anaconda3/lib/libpython3.9.so 

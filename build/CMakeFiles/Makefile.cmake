@@ -45,6 +45,8 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/usr/local/share/cmake-3.23/Modules/FindLAPACK.cmake"
   "/usr/local/share/cmake-3.23/Modules/FindPackageHandleStandardArgs.cmake"
   "/usr/local/share/cmake-3.23/Modules/FindPackageMessage.cmake"
+  "/usr/local/share/cmake-3.23/Modules/FindPython/Support.cmake"
+  "/usr/local/share/cmake-3.23/Modules/FindPython2.cmake"
   "/usr/local/share/cmake-3.23/Modules/FindThreads.cmake"
   "/usr/local/share/cmake-3.23/Modules/Internal/CheckSourceCompiles.cmake"
   "/usr/local/share/cmake-3.23/Modules/Platform/Linux-GNU-C.cmake"
@@ -70,5 +72,5 @@ set(CMAKE_MAKEFILE_PRODUCTS
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
-  "CMakeFiles/LearnCeres2.dir/DependInfo.cmake"
+  "CMakeFiles/LearnCeres4.dir/DependInfo.cmake"
   )

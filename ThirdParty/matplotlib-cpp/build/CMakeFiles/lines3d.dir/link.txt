@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-7 -g CMakeFiles/lines3d.dir/examples/lines3d.cpp.o -o bin/lines3d  -Wl,-rpath,/media/hongfeng/Storage/Ubuntu/anaconda3/lib /media/hongfeng/Storage/Ubuntu/anaconda3/lib/libpython3.9.so 

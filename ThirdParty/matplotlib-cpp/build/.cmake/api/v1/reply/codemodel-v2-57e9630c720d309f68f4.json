@@ -1,0 +1,196 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-8191c4f0a550720c7fa3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "matplotlib_cpp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "animation::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-animation-Debug-1f8ccfcbf70ae7cf6bb0.json",
+					"name" : "animation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bar::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bar-Debug-874c97f58852d0de68af.json",
+					"name" : "bar",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "basic::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-basic-Debug-49df499a3bf8ea878289.json",
+					"name" : "basic",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "colorbar::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-colorbar-Debug-6cef26409be95e8d6f8b.json",
+					"name" : "colorbar",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "contour::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-contour-Debug-64fa564f65a9c2f9413a.json",
+					"name" : "contour",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fill::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fill-Debug-252654ce8ae72e9f1e72.json",
+					"name" : "fill",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fill_inbetween::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fill_inbetween-Debug-57735598b2c1cefd186a.json",
+					"name" : "fill_inbetween",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lines3d::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lines3d-Debug-a8473b8fee32819049ec.json",
+					"name" : "lines3d",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "minimal::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-minimal-Debug-bc46499e95f64fdf80ba.json",
+					"name" : "minimal",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "modern::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-modern-Debug-246e99a52d57ff8c04d6.json",
+					"name" : "modern",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "nonblock::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-nonblock-Debug-629e9653c6315df670db.json",
+					"name" : "nonblock",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "spy::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-spy-Debug-e2243a50773087e7bdce.json",
+					"name" : "spy",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "subplot2grid::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-subplot2grid-Debug-ae6bd3b3a9f928226f7c.json",
+					"name" : "subplot2grid",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "surface::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-surface-Debug-367404c6765a76d2fd7f.json",
+					"name" : "surface",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "update::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-update-Debug-f252e10f7a1c552ece46.json",
+					"name" : "update",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "xkcd::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-xkcd-Debug-d67614446a931bad21b7.json",
+					"name" : "xkcd",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/media/hongfeng/Storage/Ubuntu/matplotlib-cpp/build",
+		"source" : "/media/hongfeng/Storage/Ubuntu/matplotlib-cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

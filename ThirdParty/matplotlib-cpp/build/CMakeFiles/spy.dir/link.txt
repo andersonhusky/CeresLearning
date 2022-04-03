@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-7 -g CMakeFiles/spy.dir/examples/spy.cpp.o -o bin/spy  -Wl,-rpath,/media/hongfeng/Storage/Ubuntu/anaconda3/lib /media/hongfeng/Storage/Ubuntu/anaconda3/lib/libpython3.9.so 

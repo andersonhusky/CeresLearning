@@ -1,0 +1,82 @@
+[
+{
+  "directory": "/media/hongfeng/Storage/Ubuntu/matplotlib-cpp/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -I/media/hongfeng/Storage/Ubuntu/matplotlib-cpp/examples -isystem /media/hongfeng/Storage/Ubuntu/anaconda3/include/python3.9 -isystem /media/hongfeng/Storage/Ubuntu/anaconda3/lib/python3.9/site-packages/numpy/core/include -g -o CMakeFiles/minimal.dir/examples/minimal.cpp.o -c /media/hongfeng/Storage/Ubuntu/matplotlib-cpp/examples/minimal.cpp",
+  "file": "/media/hongfeng/Storage/Ubuntu/matplotlib-cpp/examples/minimal.cpp"
+},
+{
+  "directory": "/media/hongfeng/Storage/Ubuntu/matplotlib-cpp/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -I/media/hongfeng/Storage/Ubuntu/matplotlib-cpp/examples -isystem /media/hongfeng/Storage/Ubuntu/anaconda3/include/python3.9 -isystem /media/hongfeng/Storage/Ubuntu/anaconda3/lib/python3.9/site-packages/numpy/core/include -g -o CMakeFiles/basic.dir/examples/basic.cpp.o -c /media/hongfeng/Storage/Ubuntu/matplotlib-cpp/examples/basic.cpp",
+  "file": "/media/hongfeng/Storage/Ubuntu/matplotlib-cpp/examples/basic.cpp"
+},
+{
+  "directory": "/media/hongfeng/Storage/Ubuntu/matplotlib-cpp/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -I/media/hongfeng/Storage/Ubuntu/matplotlib-cpp/examples -isystem /media/hongfeng/Storage/Ubuntu/anaconda3/include/python3.9 -isystem /media/hongfeng/Storage/Ubuntu/anaconda3/lib/python3.9/site-packages/numpy/core/include -g -o CMakeFiles/modern.dir/examples/modern.cpp.o -c /media/hongfeng/Storage/Ubuntu/matplotlib-cpp/examples/modern.cpp",
+  "file": "/media/hongfeng/Storage/Ubuntu/matplotlib-cpp/examples/modern.cpp"
+},
+{
+  "directory": "/media/hongfeng/Storage/Ubuntu/matplotlib-cpp/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -I/media/hongfeng/Storage/Ubuntu/matplotlib-cpp/examples -isystem /media/hongfeng/Storage/Ubuntu/anaconda3/include/python3.9 -isystem /media/hongfeng/Storage/Ubuntu/anaconda3/lib/python3.9/site-packages/numpy/core/include -g -o CMakeFiles/animation.dir/examples/animation.cpp.o -c /media/hongfeng/Storage/Ubuntu/matplotlib-cpp/examples/animation.cpp",
+  "file": "/media/hongfeng/Storage/Ubuntu/matplotlib-cpp/examples/animation.cpp"
+},
+{
+  "directory": "/media/hongfeng/Storage/Ubuntu/matplotlib-cpp/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -I/media/hongfeng/Storage/Ubuntu/matplotlib-cpp/examples -isystem /media/hongfeng/Storage/Ubuntu/anaconda3/include/python3.9 -isystem /media/hongfeng/Storage/Ubuntu/anaconda3/lib/python3.9/site-packages/numpy/core/include -g -o CMakeFiles/nonblock.dir/examples/nonblock.cpp.o -c /media/hongfeng/Storage/Ubuntu/matplotlib-cpp/examples/nonblock.cpp",
+  "file": "/media/hongfeng/Storage/Ubuntu/matplotlib-cpp/examples/nonblock.cpp"
+},
+{
+  "directory": "/media/hongfeng/Storage/Ubuntu/matplotlib-cpp/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -I/media/hongfeng/Storage/Ubuntu/matplotlib-cpp/examples -isystem /media/hongfeng/Storage/Ubuntu/anaconda3/include/python3.9 -isystem /media/hongfeng/Storage/Ubuntu/anaconda3/lib/python3.9/site-packages/numpy/core/include -g -o CMakeFiles/xkcd.dir/examples/xkcd.cpp.o -c /media/hongfeng/Storage/Ubuntu/matplotlib-cpp/examples/xkcd.cpp",
+  "file": "/media/hongfeng/Storage/Ubuntu/matplotlib-cpp/examples/xkcd.cpp"
+},
+{
+  "directory": "/media/hongfeng/Storage/Ubuntu/matplotlib-cpp/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -I/media/hongfeng/Storage/Ubuntu/matplotlib-cpp/examples -isystem /media/hongfeng/Storage/Ubuntu/anaconda3/include/python3.9 -isystem /media/hongfeng/Storage/Ubuntu/anaconda3/lib/python3.9/site-packages/numpy/core/include -g -o CMakeFiles/bar.dir/examples/bar.cpp.o -c /media/hongfeng/Storage/Ubuntu/matplotlib-cpp/examples/bar.cpp",
+  "file": "/media/hongfeng/Storage/Ubuntu/matplotlib-cpp/examples/bar.cpp"
+},
+{
+  "directory": "/media/hongfeng/Storage/Ubuntu/matplotlib-cpp/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -I/media/hongfeng/Storage/Ubuntu/matplotlib-cpp/examples -isystem /media/hongfeng/Storage/Ubuntu/anaconda3/include/python3.9 -isystem /media/hongfeng/Storage/Ubuntu/anaconda3/lib/python3.9/site-packages/numpy/core/include -g -o CMakeFiles/fill_inbetween.dir/examples/fill_inbetween.cpp.o -c /media/hongfeng/Storage/Ubuntu/matplotlib-cpp/examples/fill_inbetween.cpp",
+  "file": "/media/hongfeng/Storage/Ubuntu/matplotlib-cpp/examples/fill_inbetween.cpp"
+},
+{
+  "directory": "/media/hongfeng/Storage/Ubuntu/matplotlib-cpp/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -I/media/hongfeng/Storage/Ubuntu/matplotlib-cpp/examples -isystem /media/hongfeng/Storage/Ubuntu/anaconda3/include/python3.9 -isystem /media/hongfeng/Storage/Ubuntu/anaconda3/lib/python3.9/site-packages/numpy/core/include -g -o CMakeFiles/fill.dir/examples/fill.cpp.o -c /media/hongfeng/Storage/Ubuntu/matplotlib-cpp/examples/fill.cpp",
+  "file": "/media/hongfeng/Storage/Ubuntu/matplotlib-cpp/examples/fill.cpp"
+},
+{
+  "directory": "/media/hongfeng/Storage/Ubuntu/matplotlib-cpp/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -I/media/hongfeng/Storage/Ubuntu/matplotlib-cpp/examples -isystem /media/hongfeng/Storage/Ubuntu/anaconda3/include/python3.9 -isystem /media/hongfeng/Storage/Ubuntu/anaconda3/lib/python3.9/site-packages/numpy/core/include -g -o CMakeFiles/update.dir/examples/update.cpp.o -c /media/hongfeng/Storage/Ubuntu/matplotlib-cpp/examples/update.cpp",
+  "file": "/media/hongfeng/Storage/Ubuntu/matplotlib-cpp/examples/update.cpp"
+},
+{
+  "directory": "/media/hongfeng/Storage/Ubuntu/matplotlib-cpp/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -I/media/hongfeng/Storage/Ubuntu/matplotlib-cpp/examples -isystem /media/hongfeng/Storage/Ubuntu/anaconda3/include/python3.9 -isystem /media/hongfeng/Storage/Ubuntu/anaconda3/lib/python3.9/site-packages/numpy/core/include -g -o CMakeFiles/subplot2grid.dir/examples/subplot2grid.cpp.o -c /media/hongfeng/Storage/Ubuntu/matplotlib-cpp/examples/subplot2grid.cpp",
+  "file": "/media/hongfeng/Storage/Ubuntu/matplotlib-cpp/examples/subplot2grid.cpp"
+},
+{
+  "directory": "/media/hongfeng/Storage/Ubuntu/matplotlib-cpp/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -I/media/hongfeng/Storage/Ubuntu/matplotlib-cpp/examples -isystem /media/hongfeng/Storage/Ubuntu/anaconda3/include/python3.9 -isystem /media/hongfeng/Storage/Ubuntu/anaconda3/lib/python3.9/site-packages/numpy/core/include -g -o CMakeFiles/lines3d.dir/examples/lines3d.cpp.o -c /media/hongfeng/Storage/Ubuntu/matplotlib-cpp/examples/lines3d.cpp",
+  "file": "/media/hongfeng/Storage/Ubuntu/matplotlib-cpp/examples/lines3d.cpp"
+},
+{
+  "directory": "/media/hongfeng/Storage/Ubuntu/matplotlib-cpp/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -I/media/hongfeng/Storage/Ubuntu/matplotlib-cpp/examples -isystem /media/hongfeng/Storage/Ubuntu/anaconda3/include/python3.9 -isystem /media/hongfeng/Storage/Ubuntu/anaconda3/lib/python3.9/site-packages/numpy/core/include -g -o CMakeFiles/surface.dir/examples/surface.cpp.o -c /media/hongfeng/Storage/Ubuntu/matplotlib-cpp/examples/surface.cpp",
+  "file": "/media/hongfeng/Storage/Ubuntu/matplotlib-cpp/examples/surface.cpp"
+},
+{
+  "directory": "/media/hongfeng/Storage/Ubuntu/matplotlib-cpp/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -I/media/hongfeng/Storage/Ubuntu/matplotlib-cpp/examples -isystem /media/hongfeng/Storage/Ubuntu/anaconda3/include/python3.9 -isystem /media/hongfeng/Storage/Ubuntu/anaconda3/lib/python3.9/site-packages/numpy/core/include -g -o CMakeFiles/colorbar.dir/examples/colorbar.cpp.o -c /media/hongfeng/Storage/Ubuntu/matplotlib-cpp/examples/colorbar.cpp",
+  "file": "/media/hongfeng/Storage/Ubuntu/matplotlib-cpp/examples/colorbar.cpp"
+},
+{
+  "directory": "/media/hongfeng/Storage/Ubuntu/matplotlib-cpp/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -I/media/hongfeng/Storage/Ubuntu/matplotlib-cpp/examples -isystem /media/hongfeng/Storage/Ubuntu/anaconda3/include/python3.9 -isystem /media/hongfeng/Storage/Ubuntu/anaconda3/lib/python3.9/site-packages/numpy/core/include -g -o CMakeFiles/contour.dir/examples/contour.cpp.o -c /media/hongfeng/Storage/Ubuntu/matplotlib-cpp/examples/contour.cpp",
+  "file": "/media/hongfeng/Storage/Ubuntu/matplotlib-cpp/examples/contour.cpp"
+},
+{
+  "directory": "/media/hongfeng/Storage/Ubuntu/matplotlib-cpp/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -I/media/hongfeng/Storage/Ubuntu/matplotlib-cpp/examples -isystem /media/hongfeng/Storage/Ubuntu/anaconda3/include/python3.9 -isystem /media/hongfeng/Storage/Ubuntu/anaconda3/lib/python3.9/site-packages/numpy/core/include -g -o CMakeFiles/spy.dir/examples/spy.cpp.o -c /media/hongfeng/Storage/Ubuntu/matplotlib-cpp/examples/spy.cpp",
+  "file": "/media/hongfeng/Storage/Ubuntu/matplotlib-cpp/examples/spy.cpp"
+}
+]
